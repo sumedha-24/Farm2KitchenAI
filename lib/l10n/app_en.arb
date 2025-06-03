@@ -1,0 +1,41 @@
+{
+  "name": "Enter your name",
+  "email": "Enter your email",
+  "nitrogen": "Enter nitrogen levels",
+  "potassium": "Enter potassium levels",
+  "phosphorus": "Enter phosphurs levels",
+  "temp": "Enter the temperature ",
+  "humidity": "Enter the humidity",
+  "ph": "Enter the ph",
+  "rainfall": "Enter rainfall",
+  "landsize": "Enter cultivation landsize",
+  "irrig": "Enter irrigation levels",
+  "fert": "Have you used fertilizers or pesticides",
+  "speak": "Speak",
+  "tppl": "Total Production Per Land",
+  "tr": "Total Revenue generated",
+  "fto": "The farming type is organic",
+  "ftin": "The farming type is inorganic",
+  "submit": "Submit",
+  "goback": "Go Back",
+  "quintails": "Quintails",
+
+  "cropname": "{crop, select, rice{rice} maize{maize} chickpea{they} kidneybeans{kidneybeans} pigeonpeas{pigeonpeas} mothbeans{mothbeans} mungbeans{mungbeans} blackgram{blackgram} lentil{lentil} pomegranate{pomegranate} banana{banana} mango{mango} grapes{grapes} watermelon{watermelon} muskmelon{muskmelon} apple{apple} orange{orange} papaya{papaya} coconut{coconut} cotton{cotton} jute{jute} coffee{coffee} other{other}}",
+  "@cropname": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  },
+  "cropdesc": "{crop, select, rice{Very High Market Demand} maize{Very High Market Demand} chickpea{High Market Demand} kidneybeans{Average Market Demand} pigeonpeas{Average Market Demand} mothbeans{Average Market Demand} mungbeans{Average Market Demand} blackgram{Average Market Demand} lentil{Average Market Demand} pomegranate{Average Market Demand} banana{Average Market Demand} mango{Average Market Demand} grapes{Average Market Demand} watermelon{Average Market Demand} muskmelon{Average Market Demand} apple{Low Market Demand} orange{Low Market Demand} papaya{Average Market Demoand} coconut{High Market Demand} cotton{High Market Demand} jute{Low Market Demand} coffee{High Market Demand} other{other}}",
+  "@cropdesc": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  }
+}

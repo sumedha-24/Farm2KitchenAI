@@ -1,0 +1,40 @@
+{
+  "name": "உங்கள் பெயரை உள்ளிடவும்",
+  "email": "மின்னஞ்சலை பதிவுசெய்",
+  "nitrogen": "நைட்ரஜன் அளவை உள்ளிடவும்",
+  "potassium": "பொட்டாசியம் அளவை உள்ளிடவும்",
+  "phosphorus": "பாஸ்பரஸ் அளவை உள்ளிடவும்",
+  "temp": "வெப்பநிலையை உள்ளிடவும்",
+  "humidity": "ஈரப்பதத்தை உள்ளிடவும்",
+  "ph": "ph ஐ உள்ளிடவும்",
+  "rainfall": "மழையை உள்ளிடவும்",
+  "landsize": "சாகுபடி நில அளவை உள்ளிடவும்",
+  "fert": "பயன்படுத்தப்படும் உரங்கள் மற்றும் பூச்சிக்கொல்லிகளை உள்ளிடவும்",
+  "irrig": "நீர்ப்பாசன வகையை உள்ளிடவும்",
+  "speak": "பேசு",
+  "tppl": "ஒரு நிலத்திற்கு மொத்த உற்பத்தி",
+  "tr": "மொத்த வருவாய் ஈட்டப்பட்டது",
+  "fto": "விவசாயம் இயற்கையானது",
+  "ftin": "விவசாய வகை கனிமமானது",
+  "submit": "சமர்ப்பிக்க",
+  "goback": "திரும்பி செல்",
+  "quintails": "குயின்டெயில்கள்",
+  "cropname": "{crop, select, rice{அரிசி} maize{சோளம்} chickpea{கொண்டைக்கடலை} kidneybeans{சிறுநீரக பீன்ஸ்} pigeonpeas{புறா பட்டாணி} mothbeans{அந்துப்பூச்சிகள்} mungbeans{வெண்டைக்காய்} blackgram{கருப்பட்டி} lentil{பருப்பு} pomegranate{மாதுளை} banana{வாழை} mango{மாங்கனி} grapes{திராட்சை} watermelon{தர்பூசணி} muskmelon{முலாம்பழம்} apple{ஆப்பிள்} orange{ஆரஞ்சு} papaya{பப்பாளி} coconut{தேங்காய்} cotton{பருத்தி} jute{சணல்} coffee{கொட்டைவடி நீர்} other{other}}",
+  "@cropname": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  },
+  "cropdesc": "{crop, select, rice{மிக அதிக சந்தை தேவை} maize{மிக அதிக சந்தை தேவை} chickpea{அதிக சந்தை தேவை} kidneybeans{சராசரி சந்தை தேவை} pigeonpeas{சராசரி சந்தை தேவை} mothbeans{சராசரி சந்தை தேவை} mungbeans{சராசரி சந்தை தேவை} blackgram{சராசரி சந்தை தேவை} lentil{சராசரி சந்தை தேவை} pomegranate{சராசரி சந்தை தேவை} banana{சராசரி சந்தை தேவை} mango{சராசரி சந்தை தேவை} grapes{சராசரி சந்தை தேவை} watermelon{சராசரி சந்தை தேவை} muskmelon{சராசரி சந்தை தேவை} apple{குறைந்த சந்தை தேவை} orange{குறைந்த சந்தை தேவை} papaya{சராசரி சந்தை தேவை} coconut{அதிக சந்தை தேவை} cotton{அதிக சந்தை தேவை} jute{குறைந்த சந்தை தேவை} coffee{அதிக சந்தை தேவை} other{other}}",
+  "@cropdesc": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "നിങ്ങളുടെ പേര് നൽകുക",
+  "email": "നിങ്ങളുടെ ഇമെയിൽ നൽകുക",
+  "nitrogen": "നൈട്രജൻ അളവ് നൽകുക",
+  "potassium": "പൊട്ടാസ്യം അളവ് നൽകുക",
+  "phosphorus": "ഫോസ്ഫറുകളുടെ അളവ് നൽകുക",
+  "temp": "താപനില നൽകുക ",
+  "humidity": "ഈർപ്പം നൽകുക",
+  "ph": "പി.എച്ച് നൽകുക",
+  "rainfall": "മഴ രേഖപ്പെടുത്തുക",
+  "landsize": "കൃഷിഭൂമിയുടെ വലിപ്പം രേഖപ്പെടുത്തുക",
+  "fert": "ഉപയോഗിച്ച രാസവളങ്ങളും കീടനാശിനികളും നൽകുക",
+  "irrig": "ജലസേചന തരം നൽകുക",
+  "speak": "സംസാരിക്കുക",
+  "enterauctiond": "",
+  "tppl": "ഓരോ ഭൂമിയിലും മൊത്തം ഉൽപ്പാദനം",
+  "tr": "മൊത്തം വരുമാനം ഉണ്ടാക്കി",
+  "fto": "ജൈവരീതിയിലാണ് കൃഷി",
+  "ftin": "കൃഷി തരം അജൈവമാണ്",
+  "submit": "സമർപ്പിക്കുക",
+  "goback": "മടങ്ങിപ്പോവുക",
+  "quintails": "ക്വിന്റയിലുകൾ",
+  "cropname": "{crop, select, rice{അരി} maize{ചോളം} chickpea{കടല} kidneybeans{അമര പയർ} pigeonpeas{പ്രാവ് പീസ്} mothbeans{പുഴു ബീൻസ്} mungbeans{മംഗ്ബീൻസ്} blackgram{ബ്ലാക്ക്ഗ്രാം} lentil{പയർ} pomegranate{മാതളനാരകം} banana{വാഴപ്പഴം} mango{മാമ്പഴം} grapes{മുന്തിരി} watermelon{തണ്ണിമത്തൻ} muskmelon{കസ്തൂരി മത്തങ്ങ} apple{ആപ്പിൾ} orange{ഓറഞ്ച്} papaya{പപ്പായ} coconut{നാളികേരം} cotton{പരുത്തി} jute{ചണം} coffee{കോഫി} other{other}}",
+  "@cropname": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  },
+  "cropdesc": "{crop, select, rice{വളരെ ഉയർന്ന മാർക്കറ്റ് ഡിമാൻഡ്} maize{വളരെ ഉയർന്ന മാർക്കറ്റ് ഡിമാൻഡ്} chickpea{ഉയർന്ന മാർക്കറ്റ് ഡിമാൻഡ്} kidneybeans{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} pigeonpeas{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} mothbeans{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} mungbeans{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} blackgram{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} lentil{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} pomegranate{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} banana{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} mango{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} grapes{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} watermelon{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} muskmelon{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} apple{കുറഞ്ഞ മാർക്കറ്റ് ഡിമാൻഡ്} orange{കുറഞ്ഞ മാർക്കറ്റ് ഡിമാൻഡ്} papaya{ശരാശരി മാർക്കറ്റ് ഡിമാൻഡ്} coconut{ഉയർന്ന മാർക്കറ്റ് ഡിമാൻഡ്} cotton{ഉയർന്ന മാർക്കറ്റ് ഡിമാൻഡ്} jute{കുറഞ്ഞ മാർക്കറ്റ് ഡിമാൻഡ്} coffee{ഉയർന്ന മാർക്കറ്റ് ഡിമാൻഡ്} other{other}}",
+  "@cropdesc": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  }
+}

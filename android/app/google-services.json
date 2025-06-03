@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665266063910",
+    "project_id": "farm2kitchen-40f3e",
+    "storage_bucket": "farm2kitchen-40f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665266063910:android:2860e492e9209cb87eb4e7",
+        "android_client_info": {
+          "package_name": "com.example.farm2kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665266063910-onai15glrbrfrk2hg5ngbvu0d6asltqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrfshle2xFknRqDQWHWLDXqB5sL-ufFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665266063910-onai15glrbrfrk2hg5ngbvu0d6asltqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

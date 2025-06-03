@@ -1,0 +1,40 @@
+{
+  "name": "अप का नाम",
+  "email": "अपना ईमेल दर्ज करें",
+  "nitrogen": "नाइट्रोजन स्तर दर्ज करें",
+  "potassium": "पोटेशियम का स्तर दर्ज करें",
+  "phosphorus": "फास्फोरस स्तर दर्ज करें",
+  "temp": "तापमान दर्ज करें ",
+  "humidity": "आर्द्रता दर्ज करें",
+  "ph": "पीएच दर्ज करें",
+  "rainfall": "वर्षा दर्ज करें",
+  "landsize": "कृषि भूमि का आकार दर्ज करें",
+  "fert": "उपयोग किए गए उर्वरकों और कीटनाशकों को दर्ज करें",
+  "irrig": "सिंचाई का प्रकार दर्ज करें",
+  "speak": "बोलना",
+  "tppl": "प्रति भूमि कुल उत्पादन",
+  "tr": "कुल राजस्व उत्पन्न हुआ",
+  "fto": "खेती का प्रकार जैविक है",
+  "ftin": "खेती का प्रकार अकार्बनिक है",
+  "submit": "जमा करना",
+  "goback": "वापस जाओ",
+  "quintails": "क्विंटल",
+  "cropname": "{crop, select, rice{चावल} maize{मक्का} chickpea{काबुली चना} kidneybeans{राजमा} pigeonpeas{कबूतर के मटर} mothbeans{मोथबीन} mungbeans{मूंग दाल} blackgram{काला चना} lentil{मसूर} pomegranate{अनार} banana{केला} mango{आम} grapes{अंगूर} watermelon{तरबूज} muskmelon{खरबूजा} apple{सेब} orange{संतरा} papaya{पपीता} coconut{नारियल} cotton{कपास} jute{जूट} coffee{कॉफ़ी} other{other}}",
+  "@cropname": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  },
+  "cropdesc": "{crop, select, rice{बहुत उच्च बाजार की मांग} maize{बहुत उच्च बाजार की मांग} chickpea{उच्च बाजार की मांग} kidneybeans{औसत बाजार मांग} pigeonpeas{औसत बाजार मांग} mothbeans{औसत बाजार मांग} mungbeans{औसत बाजार मांग} blackgram{औसत बाजार मांग} lentil{औसत बाजार मांग} pomegranate{औसत बाजार मांग} banana{औसत बाजार मांग} mango{औसत बाजार मांग} grapes{औसत बाजार मांग} watermelon{औसत बाजार मांग} muskmelon{औसत बाजार मांग} apple{कम बाजार की मांग} orange{कम बाजार की मांग} papaya{औसत बाजार मांग} coconut{उच्च बाजार की मांग} cotton{उच्च बाजार की मांग} jute{कम बाजार की मांग} coffee{उच्च बाजार की मांग} other{other}}",
+  "@cropdesc": {
+    "description": "A gendered message",
+    "placeholders": {
+      "crop": {
+        "type": "String"
+      }
+    }
+  }
+}
