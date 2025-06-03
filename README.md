@@ -63,7 +63,7 @@ flutter run
 
 ## Prototype
 
-![App prototype:](.png)
+![App prototype:](farm2kitchen_app.png)
 
 ## Future Enhancements
 
